@@ -1,0 +1,5 @@
+bolo,2
+algodão doce,1
+panettone,1
+hotdog,2
+pizza,1
